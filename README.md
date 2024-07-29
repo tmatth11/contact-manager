@@ -23,11 +23,6 @@ To get the application running, you will need to install the dependencies used i
 npm install
 ```
 
-```bash
-cd front-end
-npm install
-```
-
 ## Usage
 
 In the root directory, you can run the following command to start the command-line application:
