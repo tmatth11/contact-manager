@@ -95,7 +95,7 @@ const createContact = async () => {
         });
 
         console.log(chalk.blue('\nContact created successfully!\n'));
-        console.log("Address type: " + typeof contact.address);
+        
     } catch (error) {
         console.error('Error creating contact:', error);
     }
